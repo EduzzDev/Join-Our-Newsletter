@@ -7,4 +7,4 @@ Página simples de inscrição para newsletter com design limpo e responsivo.
 - CSS3
 
 ## Visualização
-acesse o site pelo navegador [https://join-our-newsletter-alpha.vercel.app/]
+Acesse o site pelo navegador [https://join-our-newsletter-alpha.vercel.app/]
